@@ -1,0 +1,24 @@
+Slide 1 :
+        titre: Loki,
+        description: Lorem ipsum dolor sit amet consectetur adipisicing elit. Velit porro et veniam excepturi, eaque voluptatem impedit nulla laboriosam facilis ut laboriosam libero!,
+        image: slide1.png
+
+Slide 2 :
+        titre: Falcon et le Soldat de l'hiver,
+        description: Lorem ipsum dolor sit amet consectetur adipisicing elit. Velit porro et veniam excepturi, eaque voluptatem impedit nulla laboriosam facilis ut laboriosam libero!,
+        image: slide2.png
+
+Slide 3 :
+        titre: WandaVision,
+        description: Lorem ipsum dolor sit amet consectetur adipisicing elit. Velit porro et veniam excepturi, eaque voluptatem impedit nulla laboriosam facilis ut laboriosam libero!,
+        image: slide3.png
+
+Slide 4 :
+        titre: Raya et le Dernier Dragon,
+        description: Lorem ipsum dolor sit amet consectetur adipisicing elit. Velit porro et veniam excepturi, eaque voluptatem impedit nulla laboriosam facilis ut laboriosam libero!,
+        image: slide4.png
+
+Slide 5 :
+        titre: Luca,
+        description: Lorem ipsum dolor sit amet consectetur adipisicing elit. Velit porro et veniam excepturi, eaque voluptatem impedit nulla laboriosam facilis ut laboriosam libero!,
+        image: slide5.png

@@ -1,0 +1,48 @@
+<!DOCTYPE html>
+<html>
+<html lang="fr">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <link rel="stylesheet" href="style.css">
+    <title>Disney+ </title>
+</head>
+
+<body>
+    <!-- Insérez votre code HTML AU-DESSOUS de cette ligne -->
+    <nav class="navbar"> 
+        <!--Logo Disney-->
+        <img src="images/logo.png" alt="" class="logo"/>
+
+        <!--Liste non-ordonnée des items-->
+        <ul class="nav-links">
+            <li class="nav-items"> <a href="#">Univers</a></li>
+            <li class="nav-items"><a href="#" >Sélection</a></li>
+            <li class="nav-items"><a href="#">Nouveautés</a></li>
+            <li class="nav-items"><a href="#">Famille</a></li>
+        </ul>
+        
+        <!--Champ de saisie barre de recherche-->
+        <div class="div-droite">
+            <input type="text" placeholder="Recherche" class="search-box">
+            <button class="sub-btn">S'INSCRIRE</button>
+            <a href="#" class="login-link">S'IDENTIFIER</a>
+        </div>
+
+    </nav>
+
+
+    <!-- Insérez votre code HTML AU-DESSUS de cette ligne -->
+
+    <template id="template-video-card">
+        <div class="video-card">
+            <img src="images/{{image}}.png" class="video-card-image" alt="">
+            <video src="videos/{{video}}.mp4" autoplay loop muted class="card-video"></video>
+        </div>
+    </template>
+
+    <!-- Insérer vos références à des scripts SOUS cette ligne -->
+    <script src="script.js" async></script>
+</body>
+
+</html>
